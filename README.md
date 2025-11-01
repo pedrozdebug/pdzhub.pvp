@@ -1,2 +1,6 @@
 # pdzhub.pvp
-pvp script for steal a brainrot.
+Steal a Brainrot, PVP script.
+
+💫**Info**💫
+
+*Hitbox Viewer*
