@@ -1,6 +1,9 @@
 # pdzhub.pvp
 Steal a Brainrot, PVP script.
 
-💫**Info**💫
+#💫Info💫
 
-*Hitbox Viewer*
+**Hitbox Viewer**
+**Esp Players**
+
+**⚠️This script only shows you the hitbox, does not modify it!⚠️**
